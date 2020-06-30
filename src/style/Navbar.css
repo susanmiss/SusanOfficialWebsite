@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#linkedin-icon{
+    margin-top: -2px;
+}
+
+#github-icon{
+    margin-top: -2px;
+}

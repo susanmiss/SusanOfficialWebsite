@@ -1,0 +1,34 @@
+body{
+  background-color:  #222A35;
+  color: #EDDAB7;
+  font-family: 'Roboto', sans-serif;
+  max-width: 1800px;
+  overflow-x: hidden;
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+  /* max-width: 100%; */
+  margin-left: 5%;
+}
+
+#bg-top{
+ margin-top: 10em;
+}
+
+.bg-img{
+  z-index: -2;
+}
+
+.bg-projects{
+  justify-content: center;
+  margin-top: -4em;
+}
+
+@media screen and (max-width: 500px) {
+  /* body{
+      margin-left: 50px;
+  } */
+ 
+}
