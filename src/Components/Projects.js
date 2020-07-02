@@ -95,7 +95,7 @@ class Projects extends Component {
         </div>
       </div>
 
-      <div className="row">
+      <div className="row pg-2">
         <div className="project-content column">
           <h2>Quarantine Thougts</h2>
           <p>

@@ -2,7 +2,7 @@
     position: absolute;
     width: 100%;
     height: 100px;
-    left: -6px;
+    /* left: -6px; */
     background: #3F4953;
     padding-left: 10%;
 }

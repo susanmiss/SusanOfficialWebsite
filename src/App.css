@@ -2,8 +2,9 @@ body{
   background-color:  #222A35;
   color: #EDDAB7;
   font-family: 'Roboto', sans-serif;
-  max-width: 1800px;
   overflow-x: hidden;
+  max-width: 1800;
+  margin:auto;
 }
 
 .logo{
@@ -26,11 +27,3 @@ body{
   margin-top: -4em;
 }
 
-@media screen and (max-width: 500px) {
-  body{
-    max-width: 30em;
-    overflow-x: hidden;
-
-}
- 
-}

@@ -1,5 +1,8 @@
 .about{
     text-align: center;
+    margin-left: 12em;
+    margin-right: 12em;
+  
 }
 
 #text-welcome{
@@ -12,6 +15,7 @@
 }
 
 #text-about{
+   
     margin: 2em;
     font-size: 1.2em; 
 }
@@ -53,12 +57,29 @@
     color: #DD9F32;
 }
 
+@media screen and (max-width: 1000px) {
+    .about{
+        text-align: center;
+        margin-left: 2em;
+        margin-right: 2em;
+    }
+}
+
 @media screen and (max-width: 500px) {
     #btn-cv{
         margin-right: 1em;
     }
    
-  }
-  #btn-get-in-touch, #btn-cv{
+  
+  #btn-get-in-touch{
       width: 13em;
   }
+  #btn-cv{
+      width: 13em
+  }
+  .about{
+    text-align: center;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+}

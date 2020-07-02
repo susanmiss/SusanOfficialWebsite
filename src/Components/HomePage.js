@@ -8,7 +8,7 @@ import BgTop from '../images/bg_top.svg'
 
 function HomePage() {
   return (
-    <div>
+    <div className="content">
         <div className="logo">
             <img src={Logo} alt="Susan Logo" className="logo-img"/> 
         </div>

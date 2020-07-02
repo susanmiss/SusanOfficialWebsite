@@ -84,6 +84,34 @@ h2{
     max-width: 40.5em;
 }
 
+@media screen and (max-width: 1000px) {
+  
+    .row{
+        margin-bottom: 20em;
+    }
+
+    .pg-1{
+        margin-top: -550px;
+        margin-bottom: -100px;
+    }
+
+    .pg-2{
+        margin-top: -400px;
+    }
+    .project-content{
+        margin-top: 10em;
+    }
+
+    .cf img{
+        max-width: 34.5em;
+   
+   
+    }
+
+    .cf img.top{
+        margin-bottom: 20em;;
+    }
+}
 
 
 @media screen and (max-width: 500px) {
@@ -92,11 +120,7 @@ h2{
         margin: 0;
         margin-bottom: 100px;
     }
-    .project-img{
-        /* width: 80%; */
-        max-width: 34.5em;
-        margin-bottom: -20px;
-    }
+
     .pg-1{
         margin-top: -550px;
     }
@@ -106,7 +130,10 @@ h2{
 
     .cf img{
         max-width: 25em;
-        margin-left: -50px;
+        
+        margin-right: auto;
+        margin-left: auto;
+        /* display: block; */
     }
 
 
