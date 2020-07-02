@@ -1,29 +1,27 @@
-body{
-  background-color:  #222A35;
-  color: #EDDAB7;
-  font-family: 'Roboto', sans-serif;
+body {
+  background-color: #222a35;
+  color: #eddab7;
+  font-family: "Roboto", sans-serif;
   overflow-x: hidden;
   max-width: 1800;
-  margin:auto;
+  margin: auto;
 }
 
-.logo{
+.logo {
   display: flex;
   justify-content: center;
-  /* max-width: 100%; */
   margin-left: 5%;
 }
 
-#bg-top{
- margin-top: 10em;
+#bg-top {
+  margin-top: 10em;
 }
 
-.bg-img{
+.bg-img {
   z-index: -2;
 }
 
-.bg-projects{
+.bg-projects {
   justify-content: center;
   margin-top: -4em;
 }
-
