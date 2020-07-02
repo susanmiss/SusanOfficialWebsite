@@ -3,6 +3,8 @@
   justify-content: flex-end;
   max-width: 1800px;
   margin: auto;
+  margin-top: 20px;
+  margin-right: 5px;
 }
 
 #linkedin-icon {
