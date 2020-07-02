@@ -12,12 +12,12 @@
 }
 
 #text-about{
-    margin: 3em;
-    font-size: 1.5em;
-
+    margin: 2em;
+    font-size: 1.2em; 
 }
 
 .buttons-about{
+    margin-top: 48px;
     display: flex;
     justify-content: center;
 }
@@ -31,7 +31,8 @@
     box-sizing: border-box;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
     border-radius: 6px;
-    margin-right: 1em;
+    margin-right: 33px;
+    
 }
 
 #btn-cv:hover{

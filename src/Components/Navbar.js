@@ -13,7 +13,7 @@ function Navbar() {
         <img src={LinkedinIcon} alt="linkedin link" />
       </a>
 
-      <a href="/" target="_blank" className="link-icons">
+      <a href="/send-email" target="_blank" className="link-icons">
         <img src={EmailIcon} alt="email link" />
       </a>
 
