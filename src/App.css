@@ -27,8 +27,10 @@ body{
 }
 
 @media screen and (max-width: 500px) {
-  /* body{
-      margin-left: 50px;
-  } */
+  body{
+    max-width: 30em;
+    overflow-x: hidden;
+
+}
  
 }

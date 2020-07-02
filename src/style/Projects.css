@@ -84,10 +84,10 @@ h2{
     max-width: 40.5em;
 }
 
+
+
 @media screen and (max-width: 500px) {
-    /* body{
-        margin: 0;
-    } */
+  
     .row{
         margin: 0;
         margin-bottom: 100px;
@@ -105,8 +105,8 @@ h2{
     }
 
     .cf img{
-        max-width: 30em;
-        margin-left: -20px;
+        max-width: 25em;
+        margin-left: -50px;
     }
 
 
