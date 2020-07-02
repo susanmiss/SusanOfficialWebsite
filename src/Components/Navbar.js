@@ -13,7 +13,7 @@ function Navbar() {
         <img src={LinkedinIcon} alt="linkedin link" />
       </a>
 
-      <a href="mailto:'fsusan@icloud.com' " className="link-icons">
+      <a href="mailto: fsusan@icloud.com  " className="link-icons">
         <img src={EmailIcon} alt="email link" />
       </a>
 

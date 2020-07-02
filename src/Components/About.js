@@ -16,7 +16,7 @@ function About() {
 
         <div className="buttons-about">
         <a href="https://media-exp1.licdn.com/dms/document/C512DAQEuGxY1YMLFiw/profile-treasury-document-pdf-analyzed/0?e=1593687600&v=beta&t=JIJ3Su_8FTikbHOf1gNvTxPnVNrNaHT56YwnZLYkuYA" target="_blank"> <button id="btn-cv">Download CV</button></a>
-            <a href="mailto: 'fsusan@icloud.com'"><button id="btn-get-in-touch">Get in Touch</button></a>
+            <a href="mailto: fsusan@icloud.com"><button id="btn-get-in-touch">Get in Touch</button></a>
         </div>
 
     </div>
