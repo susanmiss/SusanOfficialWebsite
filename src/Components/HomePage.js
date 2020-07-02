@@ -4,6 +4,8 @@ import Logo from "../images/logo.svg";
 import About from "../Components/About";
 import Projects from "../Components/Projects";
 import BgTop from "../images/bg_top.svg";
+import BgBottom from "../images/bg-bottom.png";
+import BgRight from "../images/bg_right.svg";
 
 function HomePage() {
   return (

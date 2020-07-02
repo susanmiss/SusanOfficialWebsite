@@ -4,4 +4,17 @@
     height: 100px;
     background: #3F4953;
     padding-left: 10%;
+    margin-top: 10em;
+}
+
+@media screen and (max-width: 1000px) {
+    .footer{
+        background: #222a35;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .footer{
+        background: #222a35;
+    }
 }
