@@ -1,5 +1,7 @@
 import React from "react";
 import "../style/About.css";
+import {Link} from 'react-router-dom';
+import pdf from "../images/CV-2020.pdf"
 
 function About() {
   return (
@@ -22,11 +24,7 @@ function About() {
       </div>
 
       <div className="buttons-about">
-        <a
-          href="https://media-exp1.licdn.com/dms/document/C512DAQEuGxY1YMLFiw/profile-treasury-document-pdf-analyzed/0?e=1593687600&v=beta&t=JIJ3Su_8FTikbHOf1gNvTxPnVNrNaHT56YwnZLYkuYA"
-          target="_blank"
-        >
-          {" "}
+        <a href={pdf} >
           <button id="btn-cv">Download CV</button>
         </a>
         <a href="mailto: fsusan@icloud.com">

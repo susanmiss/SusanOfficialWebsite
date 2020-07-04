@@ -21,8 +21,8 @@ class Footer extends Component {
 
     return (
       <div className="footer">
-        <h3>Susan Missaglia</h3>
-        <p>All rights reserved -{date}</p>
+        <h3 className="text">Susan Missaglia</h3>
+        <p className="text">All rights reserved -{date}</p>
       </div>
     );
   }

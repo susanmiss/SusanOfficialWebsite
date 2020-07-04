@@ -14,15 +14,16 @@ class Projects extends Component {
     return (
       <div className="projects">
         <div className="row pg-1">
+          
           <div className="cf">
-            <img className="bottom" id="bdb" src={BloodDonationCode} />
-            <img className="top" id="bdt" src={BloodDonationCover} />
+            <img className="bottom" id="bdb" src={BloodDonationCode} alt="project"/>
+            <img className="top" id="bdt" src={BloodDonationCover} alt="project"/>
           </div>
 
           <div className="project-content column">
             <h2>Blood Donation</h2>
             <p>
-            Blood Donation is a project about people who want to donate blood and Hospital/Clinics in need of it. Hospitals can publish their blood donation request to the website. Donators can interact informing the hospital if they are going using their own dashboard, also they can see last and next time to donate. Donors can book an appointment to donate blood.
+            Blood Donation is a project about people who want to donate blood and Hospital/Clinics in need of it. Hospitals can publish their blood donation request to the website. Donators can interact informing the hospital if they are going using their own dashboard, also they can see last and next time to donate. Donors can book an appointment to donate blood.</p>
               <br />
               <p>Technologies Used:</p>
               <ul>
@@ -34,10 +35,11 @@ class Projects extends Component {
                 <li>Bootstrap</li>
                 <li>AppointmentApp</li>
               </ul>
-            </p>
+            
             <a
               href="https://github.com/susanmiss/blood-donation-finder"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <button className="btn-github">Access on Github</button>
             </a>
@@ -48,7 +50,7 @@ class Projects extends Component {
           <div className="project-content column">
             <h2>Trip4Me</h2>
             <p>
-            Trip4me is a project about my own trips. I wanted to create a website from scratch using MERN technology. I have an admin area where is possible to create, delete, and update a post with images.
+            Trip4me is a project about my own trips. I wanted to create a website from scratch using MERN technology. I have an admin area where is possible to create, delete, and update a post with images.</p>
               <br />
               <p>Technologies Used:</p>
               <ul>
@@ -58,28 +60,28 @@ class Projects extends Component {
                 <li>Node.js</li>
                 <li>Bootstrap</li>
               </ul>
-            </p>
-            <a href="https://github.com/susanmiss/trip4me" target="_blank">
+            
+            <a href="https://github.com/susanmiss/trip4me" target="_blank" rel="noopener noreferrer">
               <button className="btn-github">Access on Github</button>
             </a>
           </div>
 
           <div className="cf">
-            <img className="bottom" src={Trip4meCode} />
-            <img className="top" src={Trip4meCover} />
+            <img className="bottom" src={Trip4meCode} alt="project"/>
+            <img className="top" src={Trip4meCover} alt="project"/>
           </div>
         </div>
 
         <div className="row">
           <div className="cf">
-            <img className="bottom" src={ZombieCode} />
-            <img className="top" src={ZombieCover} />
+            <img className="bottom" src={ZombieCode} alt="project" />
+            <img className="top" src={ZombieCover} alt="project" />
           </div>
 
           <div className="project-content column">
             <h2>Zombie Movies</h2>
             <p>
-            Zombie Movies is a project where you can see a list of zombie movies (my favourites). At the search bar, you can search by actor's name or movie's name - you don't need to be a zombie to search! I created that project in order to learn more about fetching APIs, express and requests.
+            Zombie Movies is a project where you can see a list of zombie movies (my favourites). At the search bar, you can search by actor's name or movie's name - you don't need to be a zombie to search! I created that project in order to learn more about fetching APIs, express and requests. </p>
               <br />
               <p>Technologies Used:</p>
               <ul>
@@ -87,10 +89,10 @@ class Projects extends Component {
                 <li>EJS - as engine template</li>
                 <li>External API integration</li>
               </ul>
-            </p>
+           
             <a
               href="https://github.com/susanmiss/zombie-movies"
-              target="_blank"
+              target="_blank" rel="noopener noreferrer"
             >
               <button className="btn-github">Access on Github</button>
             </a>
@@ -101,7 +103,7 @@ class Projects extends Component {
           <div className="project-content column">
             <h2>Quarantine Thoughts</h2>
             <p>
-            Quarantine Thoughts is a simple blog where we can share our thoughts during this quarantine times. I wanted to create a blog from scratch using MERN technology. CRUD functionality.
+            Quarantine Thoughts is a simple blog where we can share our thoughts during this quarantine times. I wanted to create a blog from scratch using MERN technology. CRUD functionality.</p>
               <br />
               <p>Technologies Used:</p>
               <ul>
@@ -111,20 +113,21 @@ class Projects extends Component {
                 <li>Node.js</li>
                 <li>Bootstrap</li>
               </ul>
-            </p>
+            
             <a
               href="https://github.com/susanmiss/quarantine-thoughts"
-              target="_blank"
+              target="_blank" rel="noopener noreferrer"
             >
               <button className="btn-github">Access on Github</button>
             </a>
           </div>
 
           <div className="cf">
-            <img className="bottom" src={QuarantineCode} />
-            <img className="top" src={QuarantineCover} />
+            <img className="bottom" src={QuarantineCode} alt="project" />
+            <img className="top" src={QuarantineCover} alt="project" />
           </div>
         </div>
+
       </div>
     );
   }
