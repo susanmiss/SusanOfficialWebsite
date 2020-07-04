@@ -22,11 +22,7 @@ class Projects extends Component {
           <div className="project-content column">
             <h2>Blood Donation</h2>
             <p>
-              Blood Donation Finder is a project about people who want donate
-              blood and Hospital/Clinics in need of it. The Hospitals can send a
-              post to the website and the users can interage informing the
-              hospital if they are going, send emails, and in their own
-              dashboard can see last and next time to donate.
+            Blood Donation is a project about people who want to donate blood and Hospital/Clinics in need of it. Hospitals can publish their blood donation request to the website. Donators can interact informing the hospital if they are going using their own dashboard, also they can see last and next time to donate. Donors can book an appointment to donate blood.
               <br />
               <p>Technologies Used:</p>
               <ul>
@@ -52,10 +48,7 @@ class Projects extends Component {
           <div className="project-content column">
             <h2>Trip4Me</h2>
             <p>
-              Trip4me is a project about my own trips. I wanted to create a
-              website from scratch using MERN technology. There is an admin area
-              where is possible to create, delete, and update a post with
-              images.
+            Trip4me is a project about my own trips. I wanted to create a website from scratch using MERN technology. I have an admin area where is possible to create, delete, and update a post with images.
               <br />
               <p>Technologies Used:</p>
               <ul>
@@ -86,11 +79,7 @@ class Projects extends Component {
           <div className="project-content column">
             <h2>Zombie Movies</h2>
             <p>
-              Zombie Movies is a project when you can see a list of zombie
-              movies (my favorites ). There is a search bar when you can search
-              by actor's name or movie's name - don't need do be zombies
-              related. I created that project in order to learn more about
-              fetching APis, express and requests.
+            Zombie Movies is a project where you can see a list of zombie movies (my favourites). At the search bar, you can search by actor's name or movie's name - you don't need to be a zombie to search! I created that project in order to learn more about fetching APIs, express and requests.
               <br />
               <p>Technologies Used:</p>
               <ul>
@@ -110,12 +99,9 @@ class Projects extends Component {
 
         <div className="row pg-2">
           <div className="project-content column">
-            <h2>Quarantine Thougts</h2>
+            <h2>Quarantine Thoughts</h2>
             <p>
-              Quarantine Thoughts is a simple blog when we can share our
-              thoughts in this quarantine times. I wanted to create a blog from
-              scratch using MERN technology. There is an admin area where is
-              possible to create, delete, and update a post.
+            Quarantine Thoughts is a simple blog where we can share our thoughts during this quarantine times. I wanted to create a blog from scratch using MERN technology. CRUD functionality.
               <br />
               <p>Technologies Used:</p>
               <ul>

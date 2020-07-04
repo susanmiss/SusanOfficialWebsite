@@ -10,25 +10,14 @@ function About() {
           I’m a Junior Software Engineer based in London - UK.
         </h1>
         <p id="text-about">
-          Prior to deciding I wanted to pursue coding as a career, I spent the
-          last ten years leading financial and maintenance teams for a hospital
-          group in Brazil. During this time, I gained a lot of professional
-          experience which I have no doubt will help me to become a successful
-          software engineer.
+        Before deciding that I wanted to pursue coding as a career, I spent the last ten years leading financial and maintenance teams for a hospital group in Brazil. During this time, I gained a lot of professional experience that I have no doubt will help me to become a successful software engineer.
         </p>
         <p id="text-about">
-          I applied to study at Futureproof Botcamp, and among more than 700
-          applicants, I've been selected. The bootcamp covered full stack
-          development and gave me the skills needed to start a career as Junior
-          Developer.{" "}
+        I applied to study at Futureproof Bootcamp, and among more than 700 applicants, I got selected. The Bootcamp covered full-stack development and gave me the skills needed to start a career as a Junior Developer.
         </p>
         <p id="text-about">
           {" "}
-          Version Control via Github, problem solving, clean code, TDD always as
-          a goal. These are skills that I'm fully committed to achieve always.{" "}
-        </p>
-        <p>
-          MERN Technology is not just a work's tool, it's hobby and I love it.
+          Version Control via Github, problem-solving, clean code, TDD. These are goals that I'm fully committed to achieving, always. MERN Technology is not just a tool for work, it's a hobby and I love it.
         </p>
       </div>
 

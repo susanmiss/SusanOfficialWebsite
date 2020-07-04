@@ -1,11 +1,10 @@
-/* html{
-  width: 1800px;
-} */
+
 
 body {
   background-color: #222a35;
   color: #eddab7;
   font-family: "Roboto", sans-serif;
+  font-weight: 100;
   overflow-x: hidden;
   max-width: 1800;
   margin: auto;

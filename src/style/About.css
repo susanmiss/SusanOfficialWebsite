@@ -11,6 +11,7 @@
 
 #text-title {
   margin-top: 2em;
+  font-weight: 900;
 }
 
 #text-about {
@@ -34,11 +35,12 @@
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
   border-radius: 6px;
   margin-right: 33px;
+  font-weight: 900;
 }
 
 #btn-cv:hover {
-  background: #dd9f32;
-  color: #222a35;
+  background: rgb(198,114,61);
+  color: white;
 }
 
 #btn-get-in-touch {
@@ -47,11 +49,13 @@
   background: #dd9f32;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
   border-radius: 6px;
+  font-weight: 900;
+  border: #dd9f32;
 }
 
 #btn-get-in-touch:hover {
-  background: #222a35;
-  color: #dd9f32;
+  background: rgb(198,114,61);
+  color: white;
 }
 
 @media screen and (max-width: 1000px) {
