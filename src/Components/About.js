@@ -9,7 +9,7 @@ function About() {
       <div className="about">
         <p id="text-welcome">Hello, my name is Susan Missaglia. Welcome :)</p>
         <h1 id="text-title">
-          I’m a Junior Software Engineer based in London - UK.
+          I’m a Junior Software Engineer based in Milton Keynes - UK.
         </h1>
         <p id="text-about">
         Before deciding that I wanted to pursue coding as a career, I spent the last ten years leading financial and maintenance teams for a hospital group in Brazil. During this time, I gained a lot of professional experience that I have no doubt will help me to become a successful software engineer.
