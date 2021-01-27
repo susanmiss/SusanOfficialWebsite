@@ -1,6 +1,5 @@
 import React from "react";
 import "../style/About.css";
-import {Link} from 'react-router-dom';
 import pdf from "../images/CV-2020.pdf"
 
 function About() {
@@ -12,10 +11,10 @@ function About() {
           I’m a Junior Software Engineer based in Milton Keynes - UK.
         </h1>
         <p id="text-about">
-        Before deciding that I wanted to pursue coding as a career, I spent the last ten years leading financial and maintenance teams for a hospital group in Brazil. During this time, I gained a lot of professional experience that I have no doubt will help me to become a successful software engineer.
+          Before deciding that I wanted to pursue coding as a career, I spent the last ten years leading financial and maintenance teams for a hospital group in Brazil. During this time, I gained a lot of professional experience that I have no doubt will help me to become a successful software engineer.
         </p>
         <p id="text-about">
-        I applied to study at Futureproof Bootcamp, and among more than 700 applicants, I got selected. The Bootcamp covered full-stack development and gave me the skills needed to start a career as a Junior Developer.
+          I applied to study at Futureproof Bootcamp, and among more than 700 applicants, I got selected. The Bootcamp covered full-stack development and gave me the skills needed to start a career as a Junior Developer.
         </p>
         <p id="text-about">
           {" "}

@@ -13,7 +13,6 @@
 
 .pg-1 {
   z-index: 0;
-  margin-top: -650px;
 }
 .cf {
   position: relative;
@@ -66,7 +65,7 @@ h2 {
 }
 
 .btn-github:hover {
-  background:  rgb(198,114,61);
+  background: rgb(198, 114, 61);
   color: white;
 }
 
@@ -84,10 +83,9 @@ h2 {
 @media screen and (max-width: 1000px) {
   .row {
     margin-top: 10em;
-
   }
 
-  .row:last-child{
+  .row:last-child {
     margin-top: 10em;
     margin-bottom: 10em;
   }
@@ -101,7 +99,7 @@ h2 {
     margin-top: -400px;
   }
 
-  .cf{
+  .cf {
     order: 1;
   }
 
@@ -130,8 +128,6 @@ h2 {
     margin-bottom: 100px;
   }
 
-  
-
   .pg-1 {
     margin-top: -550px;
   }
@@ -146,11 +142,11 @@ h2 {
     margin-left: auto;
   }
 
-  .cf{
+  .cf {
     order: 1;
   }
 
-  .project-content{
+  .project-content {
     order: 2;
     margin-top: -5px;
   }
